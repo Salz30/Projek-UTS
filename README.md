@@ -17,7 +17,8 @@ Diaplikasi ini di tugaskan untuk membuat 4 activity
 ---
 
 ## 📌 Penjelasan code
-Untuk penjelasan setiap baris code akan terlampir di *PDF*
+Untuk penjelasan setiap baris code akan terlampir di Drive berikut:
+https://drive.google.com/file/d/1HGjFHZTNQcOf78sQS55E5JbLX1sv6oym/view?usp=sharing
 
 ---
 
